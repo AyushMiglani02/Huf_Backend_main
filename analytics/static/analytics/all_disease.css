@@ -1,0 +1,30 @@
+.ad_morebutton {
+    text-decoration: none;
+    background-color: #053B3F;
+    color: white;
+    padding: 1rem;
+}
+
+.cards_outer {
+    padding: 1rem 1rem 5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card {
+    /* border: 1px solid red; */
+    /* width: 80vw; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    transition: transform 300ms;
+}
+
+.card:hover {
+    transform: scale(1.01);
+    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
+}

@@ -1,0 +1,35 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{% static 'analytics/all_disease.css' %}">
+    <title>HU | Analytics</title>
+</head>
+<body>
+    <div>
+        {% include "analytics/header.html" %}
+        <div class="cards_outer">
+            <div style="display: flex; flex-direction: column; align-items: center;">
+                <h2>Website traffic distribution</h2>
+                <div style="width: 50vw;">{{ pie_chart | safe }}</div>
+            </div>
+            {% for obj in obj_list %}
+                <div class="card">
+                    <h3>{{ obj.name | title }}</h3>
+                    {% if obj.plot %}
+                        <div>{{ obj.plot | safe }}</div>
+                        <div style="text-align: right; margin: 0rem 10rem 1rem 0rem;">
+                            <a href="{% url 'disease-data' disease=obj.name %}" class="ad_morebutton">More</a>
+                        </div>
+                    {% else %}
+                        <p>No data available</p>
+                    {% endif %}
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

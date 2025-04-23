@@ -1,0 +1,22 @@
+{
+	"latestEjournalPage": {
+		"text": "These are the latest e-Journals published by Health Umbrella Foundation. Through these e-journals we aim societies to become more healthier.",
+		"ejournals": [
+			{
+				"imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"fileLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD"
+			},
+			{
+				"imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"fileLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD"
+			},
+			{
+				"imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"fileLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD"
+			}
+		]
+	},
+	"allEjournalPage": {
+		"text": "these are all the e-Journals rich in information of different pathies about different diseases under Health Umbrella Foundation (HUF) initiative."
+	}
+}

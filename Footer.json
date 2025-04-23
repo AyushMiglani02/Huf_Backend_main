@@ -1,0 +1,15 @@
+{
+	"footer": {
+		"contactInformation": {
+        "contactEmail": "hello@healthumbrella.org",
+        "contactPhoneNumber": "1234567890",
+        "contactAddress": "LNMIIT, Jamdoli, Jaipur"
+    },
+    "socialMediaInformation": {
+        "instagramLink": "instagram.com",
+        "facebookLink": "facebook.com",
+        "youtubeLink": "youtube.com",
+        "twitterLink": "twitter.com"
+    }
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"imageLink":"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+  "disease": "migraine",
+  "text": "Migraine is a common neurological disease.Causes various symmptoms include headache",
+  "summary": "Different kinds of therepies help different patients.Some patients are cured by Homeopathy",
+  "pathies": {
+    "therapiesWithDrugs": [
+      {
+        "name": "Accupressure Therapy",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"summary": "Accupressure is a type of massage therapy"
+      },
+      {
+        "name": "Herbs",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+        "summary": "Accupressure is a type of massage therapy"
+      }
+    ],
+    "therapiesWithoutDrugs": [
+      {
+        "name": "Cow Therepy",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+        "summary": "Cow urine istrditionally used as ayurvadic medicine"
+      },
+      {
+        "name": "Accupressure Therepy",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+        "summary": "Accupressure is a type of massage therapy"
+      }
+    ],
+    "lessKnownTherapies": [
+      {
+        "name": "Fasting Therepy",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+        "summary": "Accupressure is a type of massage therapy"
+      },
+      {
+        "name": "Reiki Therepy",
+        "imageLink": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+        "summary": "Accupressure is a type of massage therapy"
+      }
+    ]
+  }
+}

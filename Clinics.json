@@ -1,0 +1,34 @@
+{
+	"clinicsList": [
+		{
+			"name": "arogydham acupressure center",
+			"imageLink": "https://health-umbrella-bucket.s3.amazonaws.com/static/clinics_images/clinic_2023-09-17_08-59-53.webp",
+			"location": "jaipur",
+			"address": "Near Temple, Swami vivekananda circle, Jaipur, Rajasthan, India",
+			"LocationLink": "https://maps.app.goo.gl/t5ZssrYenjeCWGQt5",
+			"summary": "this is a very nice hospital",
+			"contact": "1234567890",
+			"tagList": ["allopathy","acupressure","acupunture"]
+		},
+		{
+			"name": "arogydham acupressure center",
+			"imageLink": "https://health-umbrella-bucket.s3.amazonaws.com/static/clinics_images/clinic_2023-09-17_08-59-53.webp",
+			"location": "ayodhya",
+			"address": "Near Temple, Swami vivekananda circle, Ayodhya, Uttar Pradesh, India",
+			"LocationLink": "https://maps.app.goo.gl/t5ZssrYenjeCWGQt5",
+			"summary": "this is a very nice hospital",
+			"contact": "arogydham@gmail.com",
+			"tagList": ["allopathy","acupressure","acupunture"]
+		},
+		{
+			"name": "arogydham acupressure center",
+			"imageLink": "https://health-umbrella-bucket.s3.amazonaws.com/static/clinics_images/clinic_2023-09-17_08-59-53.webp",
+			"location": "prayagraj",
+			"address": "Near Temple, Swami vivekananda circle, Prayagraj, Andhra Pradesh, India",
+			"LocationLink": "https://maps.app.goo.gl/t5ZssrYenjeCWGQt5",
+			"summary": "this is a very nice hospital",
+			"contact": "45678905678",
+			"tagList": ["allopathy","acupressure","acupunture"]
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"text": "Our diverse team of passionate individuals is committed towards providing exceptional user experience which drives innovation and success. Meet our dedicated team members here!",
+	"teamList": ["lead-members", "data-management-team", "website-management-team"],
+	"members": {
+		"lead-members": [
+			{
+				"name": "John Doe",
+				"imageLink": "data:image/webp;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"designation": "Team Leader",
+				"about": "Experienced leader in health tech.",
+				"linkedin_url": "https://linkedin.com/in/johndoe",
+				"email_address": "johndoe@example.com",
+				"phone_number": "9876543210"
+			}
+		],
+		"data-management-team": [
+			{
+				"name": "Alice Smith",
+				"imageLink": "data:image/webp;base64,/9j/4AAQSkZJRgABAQAAAQABAAD",
+				"designation": "Data Analyst",
+				"about": "Specialist in health data management.",
+				"linkedin_url": "https://linkedin.com/in/alicesmith",
+				"email_address": "alice@example.com",
+				"phone_number": "8765432109"
+			}
+		]
+	}
+}

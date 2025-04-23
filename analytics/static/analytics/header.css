@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.header_outer {
+    width: 100vw;
+    background-color: rgb(255, 255, 100);
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: #053B3F;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.goto_admin {
+    text-decoration: underline;
+    color: white;
+    margin-right: 4rem;
+}

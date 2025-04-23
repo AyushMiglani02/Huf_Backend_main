@@ -1,0 +1,47 @@
+{
+  "topSearchPage": {
+    "diseaseList": [
+      "diabetes",
+      "psoriasis",
+      "cancer"
+    ]
+  },
+  "ourMissionPage": {
+    "youtubeLink": "https://www.youtube.com/watch?v=hQH3viVFhPA&ab_channel=MarkManson",
+    "ourMissionText": "Health umbrella foundation is a movement to"
+  },
+  "testimonialPage": {
+    "testimonialList": [
+      {
+        "heading": "My experience with migraine",
+        "text": "I have been suffering from migraine for two years",
+        "name": "Sophia Nyugen",
+        "location": "Rajasthan, India"
+      },
+      {
+        "heading": "My experience with psoriasis",
+        "text": "The treatment on this website helped me to cure my diseases.",
+        "name": "Ethan Patel",
+        "location": "Haryana, India"
+      }
+    ]
+  },
+  "videoPage": {
+    "text": "Discover effective treatments through videos. You can check out these videos to learn about diseases",
+    "videoList": [
+      {
+        "imageLink": "data:image/jpeg;base64,/correct_base64_data_here",
+        "heading": "Learn more about Migraine",
+        "ytPlaylistLink": "https://www.youtube.com/playList?List=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp"
+      },
+      {
+        "imageLink": "data:image/jpeg;base64,/correct_base64_data_here",
+        "heading": "Learn more about psoriasis",
+        "ytPlaylistLink": "https://www.youtube.com/playList?List=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp"
+      }
+    ]
+  },
+  "bottomSearchPage": {
+    "text": "Health Umbrella is a movement to influence millions of lives"
+  }
+}

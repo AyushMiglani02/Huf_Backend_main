@@ -1,0 +1,18 @@
+{
+	"name": "Mahendra Singh Dhoni",
+	"age": "56",
+	"gender": "male",
+	"city": "Delhi",
+	"state": "Rajasthan",
+	"country": "India",
+	"email_address": "test@example.com",
+	"phone_number": "1234567890",
+	"disease": "migraine, psoriasis",
+	"pathies": "acupressure, acupunture",
+	"date_from": "2022-07-22",
+	"date_to": "2023-07-20",
+	"experience": "I have been suffering from migraine from 6 months",
+	"show_name": "true",
+	"preferred_communication": "mobile",
+	"reports": "reports.pdf"
+}

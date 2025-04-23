@@ -1,0 +1,16 @@
+{
+	"name": "Mahendra Singh Dhoni",
+	"age": "56",
+	"gender": "male",
+	"email_address": "test@example.com",
+	"phone_number": "1234567890",
+	"address": "Gokuldham society",
+	"pincode": "1000001",
+	"city": "Delhi",
+	"state": "Rajasthan",
+	"country": "India",
+	"profession": "doctor",
+	"message": "I want to contribute to society",
+	"photograph": "image.png",
+	"document": "PAN_card.pdf"
+}
